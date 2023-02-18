@@ -1,0 +1,20 @@
+{
+  "TextBox": 21,
+  "Div": 14,
+  "Button": 14,
+  "Flex": 34,
+  "Slider": 3,
+  "Dropdown": 3,
+  "Image": 19,
+  "Icon": 27,
+  "Input": 4,
+  "Checkbox": 4,
+  "Countdown": 1,
+  "Step": 1,
+  "Accordion": 1,
+  "Carousel": 1,
+  "Menu": 2,
+  "Table": 2,
+  "Radio": 1,
+  "Link": 1
+}
